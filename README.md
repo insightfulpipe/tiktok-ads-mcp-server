@@ -214,6 +214,15 @@ Then authorize the connection when Cursor prompts you.
 
 </details>
 
+## Control What Your AI Can Do
+
+You decide what AI agents can do with each connected account:
+
+- **Turn individual actions on or off** for every connected account, so agents only see the actions you allow.
+- **Connect as Read-only or Read & Write.** A read-only connection can only enable read actions.
+- **Destructive actions stay off by default.** Actions such as deletes are disabled until an admin enables them.
+- **Team access per account.** Restricted team members only use the accounts they are granted, with the read actions enabled on them.
+
 ## Usage Examples
 
 ### Campaign Performance
@@ -289,6 +298,13 @@ Then authorize the connection when Cursor prompts you.
 - **Official TikTok API for Business** - Direct integration with TikTok's API
 - **OAuth 2.0** - Secure authentication
 - **Data encryption** - Secure transmission
+
+## Ready-Made Skills and Prompts
+
+- [Claude skills for TikTok Ads](https://insightfulpipe.com/marketing-claude-skills/tiktok-ads) — ready-made skills that run on your connected data
+- [Tiktok Ads Campaign Performance Report](https://insightfulpipe.com/marketing-prompts-library/tiktok-ads-tiktok-ads-campaign-performance-report)
+- [Tiktok Ads Creative Performance Analysis](https://insightfulpipe.com/marketing-prompts-library/tiktok-ads-tiktok-ads-creative-performance-analysis)
+- [Tiktok Ad Group Targeting Analysis](https://insightfulpipe.com/marketing-prompts-library/tiktok-ads-tiktok-ad-group-targeting-analysis)
 
 ## Explore More MCP Servers by Insightful Pipe
 
